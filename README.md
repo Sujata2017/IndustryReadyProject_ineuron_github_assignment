@@ -41,8 +41,42 @@ Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 8. git add . - This command adds a change in the working directory to the staging area. 
 
+![git add](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
 
-9. 
+
+9. git commit - This command captures a snapshot of the project's currently staged changes.
+
+![git commit](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+10. git push - This command used to upload local repository content to a remote repository.
+
+![git push](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+11. git log - This command lists the version history for a branch or for a file
+
+![git push](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+12. git diff - This command displays the differences of contents between two branches
+
+![git diff](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+13. git merge - This command is used to merge a specified branch with the current branch
+
+![git merge](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+14. git show - This command shows two things: The commit to which HEAD is pointing and the difference between the versions of the file to which HEAD is pointing.
+
+![git show](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
+
+
+15. git stash - This command takes uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from the working copy.
+
+![git stash](https://github.com/Sujata2017/IndustryReadyProject_ineuron_github_assignment/blob/main/src/git6.JPG)
 
 
 
